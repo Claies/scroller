@@ -1,0 +1,17 @@
+{
+  "name": "claies-scroller",
+  "version": "1.0.0",
+  "description": "Easy to use scrolling library",
+  "main": "src/index.js",
+  "license": "MIT",
+  "packageManager": "yarn@3.2.3",
+  "peerDependencies": {
+    "react": "*",
+    "react-dom": "*"
+  },
+  "devDependencies": {
+    "esbuild": "^0.15.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
